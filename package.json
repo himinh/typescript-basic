@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "nodemon index"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
